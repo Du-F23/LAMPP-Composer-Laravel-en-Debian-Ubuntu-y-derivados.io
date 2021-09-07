@@ -1,4 +1,4 @@
-## Instalacion de NGINX, PHP, MySQL, PHPMyAdmin, Laravel, Composer, VSCode y Git en Ubuntu, Debian Y derivados
+## Instalacion de Apache, PHP, MySQL, PHPMyAdmin, Laravel, Composer, VSCode y Git en Ubuntu, Debian Y derivados
 
 Elaborado por Fernando Duarte Villavicencio.
 
