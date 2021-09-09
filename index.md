@@ -157,6 +157,8 @@ Y reiniamos Apache Web Server
 >Y ya tendremos acceso a phpMyAdmin
 >
 >![PHPinfo](img/phpmyadmin2.png)
+
+Si nos aparece un panel con el siguiente error 'phpMyAdmin error: The $cfg['TempDir'] (./tmp/) is not accessible' [Click aqui](https://www.discoverbits.in/2122/phpmyadmin-error-the-$cfg-tempdir-tmp-is-not-accessible)
 ________________________________
 
 # Instalación de Composer y Laravel
