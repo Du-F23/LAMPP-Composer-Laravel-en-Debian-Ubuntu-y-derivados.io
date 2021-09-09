@@ -2,7 +2,7 @@
 
 Elaborado por Fernando Duarte Villavicencio.
 
-Si tu GNU/Linux esta basado en Arch Linux visita mi otro repositorio [Instalacion de NGINX, PHP, MySQL, PHPMyAdmin, Laravel, Composer, VSCode y Git en Arch Linux y derivados](https://github.com/Du-F23/VS-Code-Nginx-PHP-MySQL-Laravel-PHPMyAdmin-Composer-y-Git)
+Si tu GNU/Linux esta basado en Arch Linux visita mi otro repositorio [Instalacion de NGINX, PHP, MySQL, PHPMyAdmin, Laravel, Composer, VSCode y Git en Arch Linux y derivados](https://github.com/Du-F23/LEMP-Laravel-Composer-Arch-y-derivados.io)
 ________________________________
 
 # Instalacion de Apache Web Server
